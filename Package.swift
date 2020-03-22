@@ -16,7 +16,8 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "ChromaColorPicker")
+            name: "ChromaColorPicker",
+            dependencies: [], path: "Source")
     ],
     swiftLanguageVersions: [.v5]
 )

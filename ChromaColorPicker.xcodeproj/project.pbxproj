@@ -89,6 +89,7 @@
 		35C376D71D5CF5300069D7A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35C376DA1D5CF5300069D7A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35C376DC1D5CF5300069D7A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0C495A92427C78C00D9825A /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		C83A935C23760C1600564E01 /* UIColor+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Utils.swift"; sourceTree = "<group>"; };
 		C83A935E23760C3800564E01 /* UIColor+UtilsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+UtilsTests.swift"; sourceTree = "<group>"; };
 		FC1BD8BD2207D7B700817AF3 /* ChromaColorPickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChromaColorPickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -160,6 +161,7 @@
 		35C376C41D5CF5300069D7A1 = {
 			isa = PBXGroup;
 			children = (
+				B0C495A92427C78C00D9825A /* Package.swift */,
 				35C376CF1D5CF5300069D7A1 /* Example */,
 				3503B8301F2689BC00750356 /* Source */,
 				FC1BD8BE2207D7B700817AF3 /* Tests */,
